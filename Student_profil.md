@@ -12,11 +12,12 @@ Cohort 1
 
    __Student_TODO:__ 
  
-  My Career goal  
+ - My Career goal         
+
   Which financial services or products would you like to work with?      
   I would like to work on Payment Gats  
   Which technologies do you want to contrbute to?         
-  Blockchain , ML
+  Blockchain , ML                 
   Which problems or oppertunities do you want to focus on?              
 
 
