@@ -11,12 +11,17 @@ Cohort 1
    __Student_TODO:__ 
  
   My Career goal  
-  Which financial services or products would you like to work with? 
+  Which financial services or products would you like to work with?      
   I would like to work on Payment Gats  
-  Which technologies do you want to contrbute to? 
+  Which technologies do you want to contrbute to?         
   Blockchain , ML
-  Which problems or oppertunities do you want to focus on? 
-  
+  Which problems or oppertunities do you want to focus on?              
+
+
+
+
+
+
 
 
 ### Student mini-CV:
