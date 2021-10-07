@@ -27,6 +27,6 @@ Cohort 1
   - Top 3 Technical skills:    
         Python, Java, html , css 
   - Top 3 Personal strengths:   
-       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
+    Curiosity, Hard working , Social intelligence 
   - Top 3 Interests in Fintech:    
          Blockchain, InsureTech (insurance), payments & remittence   
