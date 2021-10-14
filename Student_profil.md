@@ -14,17 +14,11 @@ Cohort 1
  
  - My Career goal         
 
-  Which financial services or products would you like to work with?      
-  I would like to work on Payment Gats  
-  Which technologies do you want to contrbute to?         
-  Blockchain , ML                 
-  Which problems or oppertunities do you want to focus on?              
 
-
-
-
-
-
+  I am Computer Science graduate my princess nora bint abdulrahman university 
+  I have exeprinace in it , and i would like to shift my career into fintech 
+  so i want to pracrtice more in trading and blockchan ,payment ,crowdfunding.
+  For this course i would like to get more experance with analysing data with python and using machian learning, and get sloid background about blockchain and ethereum programing. 
 
 
 ### Student mini-CV:
