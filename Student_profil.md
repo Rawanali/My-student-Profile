@@ -32,4 +32,4 @@ Cohort 1
   - Top 3 Personal strengths:   
     Curiosity, Hard working , Social intelligence 
   - Top 3 Interests in Fintech:    
-         Blockchain, InsureTech (insurance), payments & remittence   
+         Blockchain, invesment, payments .   
